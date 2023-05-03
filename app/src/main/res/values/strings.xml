@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CadastroEndereco</string>
+    <string name="primeiro">Cadastre um novo endereço</string>
+    <string name="segundo">Cadastre um ponto de coleta</string>
+    <string name="foto_tela"></string>
+
+</resources>
